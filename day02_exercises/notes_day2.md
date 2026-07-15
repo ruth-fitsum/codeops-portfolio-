@@ -18,4 +18,4 @@
 11, Function with Default & Return
 
 ## Mini Project(Final Challenge)
-12, Personal Finace Tracker (Day 2 Project)
+12, Personal Finance Tracker (Day 2 Project)
