@@ -41,7 +41,7 @@ try:
     elif int(q2)!= 12:
         print("That is not right")
 except ValueError:
-    Print("You didn't enter a number") 
+    print("You didn't enter a number") 
 
 q3=input("What is the largest continent?'Asia' or 'Africa': " )
 if q3.lower()=='asia':
